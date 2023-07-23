@@ -1,0 +1,16 @@
+body {
+  background-color: rgb(11, 30, 30);
+  color: bisque;
+  font-family: sans-serif;
+}
+
+p {
+  max-width: 700px;
+  margin: auto;
+  letter-spacing: 0.2rem;
+  color: red;
+}
+
+h5{
+  color:yellow;
+}
